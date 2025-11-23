@@ -1,8 +1,14 @@
 # Burrowed Launcher
 
+## DEPRECATION NOTICE
+
+Unfortunately 3rd party launchers don't work too well with gesture navigation, introducing a **~0.5-1s** lag every time you go back from an app or the app overview screen to the launcher itself. While it was tolerable for a while, it's too frustrating for extended use. See the [Google Issuer tracker](https://issuetracker.google.com/issues/296108449) for technical details. The issue has been known since gesture navigation was introduced with Android 12 and since it's still present in the latest Android 16 release, I'm not counting on it getting fixed anytime soon. Since I developed this mainly for myself and I am not using it anymore, I decided to abandon the project. 
+
+If know any workarounds, please reach out and I'll reconsider.
+
 ![](home.png)
 
-Burrowed Launcher is an open-source, free launcher designed as a primary launcher replacement for the Daylight Computer DC-1 and similar E-ink devices. Built to provide a minimalist alternative to Niagara Launcher, Burrowed Launcher offers an efficient interface specifically optimized for E-ink displays while maintaining the clean, scrollable app list paradigm that DC-1 users expect.
+Burrowed Launcher was an open-source, free launcher designed as a primary launcher replacement for the Daylight Computer DC-1 and similar E-ink devices. Built to provide a minimalist alternative to Niagara Launcher, Burrowed Launcher offers an efficient interface specifically optimized for E-ink displays while maintaining the clean, scrollable app list paradigm that DC-1 users expect.
 
 ## Features
 
